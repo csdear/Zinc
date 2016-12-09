@@ -1,9 +1,10 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
 gem 'nokogiri'
-gem 'rack', '~> 2.0.1'
+gem 'rack'
 gem 'rspec'
 
+gem 'rouge'
 gem 'jekyll'
 gem 'jekyll-assets'
 gem 'maruku'
