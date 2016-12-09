@@ -1,7 +1,8 @@
 inc:
   # Blog Information
-  title:        "Jekyll Incorporated"
+  title:        "Zombie Incorporated"
   subtitle:     "Modern Jekyll based blog for companies"
+  subtitle_2:   "Backed by a CMS"
   cover_image:  blog-cover.jpg
   logo:         logo.png
   

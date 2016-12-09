@@ -1,11 +1,12 @@
 ---
 layout: post
 
-title: Walk Among Us
+[comment]: 
+title: Z|inc Presents &#58; Our Hero, Patient Zero
 subtitle: "What's in the box"
 cover_image: blog-cover.jpg
 
-excerpt: "Join Zombie Inc -- Take Part in We the Mindless Mass"
+excerpt: "Feature presentation of the man of the \"zero\" hour"
 
 author:
   name: BlightBright
